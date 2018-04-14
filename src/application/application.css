@@ -1,0 +1,5 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.default-color0.chart-series-bar { -fx-stroke: green; }
+.default-color1.chart-series-bar { -fx-stroke: blue; }
+.default-color0.chart-bar { -fx-bar-fill: green }
+.default-color1.chart-bar { -fx-bar-fill: blue }
